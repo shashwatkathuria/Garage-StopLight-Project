@@ -1,6 +1,6 @@
 # Garage-StopLight-Project (Using Raspberry Pi Model 3B)
 -----------------------------
-## Instructions to run the program
+## INSTRUCTIONS TO RUN THE PROGRAM
 -----------------------------
 
       python3 GarageStopLight.py
