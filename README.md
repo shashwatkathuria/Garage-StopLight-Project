@@ -1,12 +1,12 @@
 # Garage-StopLight-Project (Using Raspberry Pi Model 3B)
 -----------------------------
-
-Instructions to run the program
+## Instructions to run the program
+-----------------------------
 
       python3 GarageStopLight.py
 
 -----------------------------
-ALGORITHM
+## ALGORITHM
 -----------------------------
 
 In this program, we turn on the appropriate light depending upon
@@ -15,7 +15,7 @@ triggered time are noted and then the distance is appropriately
 calculated.
 
 -----------------------------
-CIRCUIT DIAGRAM (USING BCM MODE)
+## CIRCUIT DIAGRAM (USING BCM MODE)
 -----------------------------
 
 ![Circuit Diagram](https://user-images.githubusercontent.com/37243661/55290030-8e388700-53eb-11e9-9890-dedf8be48892.png)
